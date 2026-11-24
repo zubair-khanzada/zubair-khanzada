@@ -88,3 +88,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4f46e5,100:0f172a&height=120&section=footer" width="100%" />
 </p>
+<p align="center"><i>⭐ Thanks for visiting my profile!</i></p>
